@@ -17,4 +17,51 @@ body {
 	padding: 0 45px 20px;
 }
 
+footer {
+  font-size: 10pt;
+  text-align: right;
+}
+
 /* Write all remaining styles here */
+
+h1 {
+    color: rgb(154,172,166);
+    padding-bottom: 10px;
+    margin: 0 0 5px;
+    font-size: 5em;
+    font-weight: normal;
+    border-bottom: 1px solid #ccc;
+}
+
+h2 {
+  font-size:200%;
+  color: rgb(114,126,118);
+}
+
+p {
+  color: rgb(85,85,85);
+}
+
+.necklace {
+  color: rgb(154,172,166);
+  border: solid;
+  border-color: rgb(154,172,166);
+  border-width: 4pt;
+}
+
+.learn {
+  text-decoration: none;
+  color: rgb(32,129,182);
+}
+
+#press a:link img{
+  border:solid;
+  border-color: rgb(203,204,203);
+  border-width: 4pt;
+}
+
+#press a:hover img{
+  border:solid;
+  border-color: rgb(113,128,123);
+  border-width: 4pt;
+}
